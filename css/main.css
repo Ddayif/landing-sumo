@@ -1,5 +1,5 @@
 *{
-	font-family: "lato, sans-serif"
+	font-family: 'Lato', sans-serif;
 }
 
 .first-section{
@@ -11,7 +11,7 @@
 
 .first-section h1{
 	padding-top: 2em;
-	color: #FFF;
+	color: #fff;
 	font-weight: 900;
 	font-size: 70px;
 }
@@ -21,21 +21,22 @@
 }
 
 #showApp{
-	color: #FFF;
+	color: #fff;
 	font-weight: 400;
 }
 
 .app{
 	padding: 2em 0;
-	color: #5A5A5A; 
+	color: #5A5A5A;
 }
 
 .second-section{
-	background-color: #FFF
+	background-color: #fff;
+	padding: 5em 0;
 }
 
 .title-second{
-	color: #D2527F;
+	color: #02527f;
 }
 
 .features{
@@ -43,7 +44,7 @@
 }
 
 .features:hover{
-	background-color: #F2F2F2;
+	background-color: #f2f2f2;
 	cursor: pointer;
 }
 
@@ -54,25 +55,23 @@ p{
 	font-size: 18px;
 	line-height: 28px;
 	color: #666;
-	margin-top: 1em; 
+	margin-top: 1em;
 }
 
 .third-section{
-	background-color: #F2F2F2;
+	background-color: #f2f2f2;
 	height: 100vh;
-}	
+}
 
 .btn-default{
-	color: #FFF;
-	background-color: #D2527F;
-	border-color: #B4215D;
+	color: #fff;
+	background-color: #d2527f;
+	border-color: #b42150;
 }
-
 .btn-default:hover{
-	background-color: #C53A6D;
-	color: #FFF;
+	background-color: #c53a6d;
+	color: #fff;
 }
-
 .btns{
 	padding-top: 5em;
 }
